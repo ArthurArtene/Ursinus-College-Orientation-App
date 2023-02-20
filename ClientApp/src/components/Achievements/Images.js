@@ -1,0 +1,23 @@
+const IMAGES = {
+    bearlegend: require('./Bear Legend.png').default,
+    bearstar: require('./Bear Star.png').default,
+    bearsuperstar: require('./Bear Superstar.png').default,
+    berman: require('./Berman.png').default,
+    bomberger: require('./Bomberger.png').default,
+    bps: require('./BPS.png').default,
+    bwc: require('./BWC.png').default,
+    gym: require('./Gym.png').default,
+    idc: require('./IDC.png').default,
+    kscope: require('./Kaleidoscope.png').default,
+    locked: require('./Locked.png').default,
+    lower: require('./Lower.png').default,
+    mail: require('./Mail Centre.png').default,
+    myrin: require('./Myrin.png').default,
+    olin: require('./Olin.png').default,
+    pfahler: require('./Pfahler.png').default,
+    stem: require('./Stem.png').default,
+    thomas: require('./Thomas.png').default,
+    upper: require('./Upper.png').default,
+    wellness: require('./Wellness.png').default,
+}
+export default IMAGES;
